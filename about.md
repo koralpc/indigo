@@ -2,40 +2,29 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello! I am Koralp, a Master's student and computer scientist currently studying at KU Leuven. I am a prospective graduate of 2020 and planning to takeoff in my career after graduation. My main interest area is Artificial Intelligence, in which I specialize in, and write my thesis about. However, recently I have been widening my spectrum and exercising my skills in topics of Data Science and Cloud computing.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Throughout my coursework and internships, I have acquired various experiences and technicall skills that I have listed below at the [Skills] (#skills) section. Although my skillset is broad, I am working over focusing my future works more towards Data Analysis and Engineering tech stacks, and taking extracurricular courses in order to keep up with the rapid-moving industry. More of these courses and certificates, I have also listed in [Certificates](#certificates) section.
 
-<h2>Skills</h2>
+
+As per fun traits, I am a calm natured person, with a small sprinkle of nerd & geek flowing through my soul. I really enjoy reading, and often try to make reviews of books on <a href = " https://www.goodreads.com/">Goodreads</a> </p>. I have a vinyl collection, and can be considered as a junior audiophile, considering that I had 75k hours of listening time on Spotify in 2019!. 
+
+<h2>Skills</h2><a name = "skills"></a>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Python </li>
+	<li>Java </li>
+	<li>SQL </li>
+	<li>Scala </li>
+	<li>Haskell </li>
+	<li>Python </li>
+	<li>Matlab </li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
 </ul>
+
+
+<h2>Certifications</h2><a name = "certificates"></a>
 
 <h2>Projects</h2>
 
