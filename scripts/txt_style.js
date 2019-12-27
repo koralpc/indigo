@@ -1,4 +1,4 @@
-anime.timeline({loop: true})
+anime.timeline({loop: false})
   .add({
     targets: '.ml5 .line',
     opacity: [0.5,1],
