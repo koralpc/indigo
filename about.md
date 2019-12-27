@@ -14,4 +14,3 @@ layout: page
 
 <p>As per fun traits, I am a calm natured person, with a small sprinkle of nerd & geek flowing through my soul. I really enjoy reading, and often try to make reviews of books on <a href = " https://www.goodreads.com/">Goodreads</a>. I have a vinyl collection, and can be considered as a junior audiophile, considering that I had 75k hours of listening time on Spotify in 2019!. 
 
-
