@@ -6,7 +6,7 @@
 
 
 I have adapted this theme for my usage, added some CSS & JS tweaks for better graphics.
-You can find my webpage at : <a href ="koralpc.github.io" target ="_blank">My webpage</a>
+You can find my webpage at : <a href ="https://koralpc.github.io" target ="_blank">My webpage</a>
 
 ***
 
