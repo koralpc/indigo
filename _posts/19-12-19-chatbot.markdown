@@ -479,12 +479,9 @@ var bla = $('#simpletext').val();
   url: "http://35.180.14.167:5000/predict",
   type: 'POST',
   contentType: 'text/plain',
-  //dataType: 'text',
   data: bla,
   success: function (response) {
-     //alert(response);
      $("#changeable").text(response);
-    //console.log(response)
   },
   error: function(){
     alert("Cannot get data");
