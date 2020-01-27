@@ -4,7 +4,7 @@ last_name: Catalsakal
 bio: Welcome to my webpage!
 
 # twitter summary info
-description: A blog about technology and stuff related
+#description: Koralp's protfolio/personal website
 
 # if it's an external image, update below for true
 # better with square images
@@ -23,7 +23,7 @@ url: https://koralpc.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-156583802-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -31,8 +31,8 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  shortname:koralpcatalsakal
+  categories:[blog , project , post] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -61,8 +61,10 @@ email: mrkoralp@gmail.com
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+#paginate: 5
+#paginate_path: "blog/:num/"
+
+comments: true
 
 # if you don't need projects, comment the *projects* configs below
 projects: true

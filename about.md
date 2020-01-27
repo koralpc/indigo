@@ -4,6 +4,7 @@ layout: page
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script defer src="../scripts/typed.js"></script>
 
 <h1 class="Title"> <p class="typed" style="display: inline;"></p></h1>
