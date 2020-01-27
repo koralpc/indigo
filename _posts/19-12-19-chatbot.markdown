@@ -1,14 +1,3 @@
----
-title: "How to create website deployed Chatbot model from scratch using Keras/Flask/Docker and Amazon EC2"
-layout: post
-date: 2019-12-18 11:40
-tag: [Keras,Flask,Docker,Amazon EC2]
-projects: true
-hidden: true # don't count this post in blog pagination
-description: "This post carries on an extensive tutorial about creating a simple chatbot model from scratch, and deploying it to an EC2 instance for remote web serve utilities."
-author: Koralp Catalsakal
-externalLink: false
----
 
 Hello there! Today, we will be building a simple chatbot model from scratch and deploy it in an EC2 instance to be able to do remote calls to our trained model.
 
