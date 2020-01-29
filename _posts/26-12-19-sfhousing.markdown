@@ -766,7 +766,7 @@ sns.barplot(x = 'district_no',y = 'sale_price' ,data = avg_price_per_district)
 
 
 
-![Housing](assets/images/Post-assets/sfhousing-images/dist.jpg)
+![Housing](../assets/images/Post-assets/sfhousing-images/dist.JPG)
 
 
 Let's first print a map of San Francisco
