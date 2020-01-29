@@ -453,44 +453,12 @@ Here, replace the Public-IP field with the IP of your own instance.Then, you are
 
 ## Conclusion <a name = "conclusion">
 
-If you have made it this far, well done! Now, you have a mini full-round project that utilizes many different components of development. As a simple demonstration, I put up the working example here below, so you can test it in case you were not you were not able to finish the tutorial.
+If you have made it this far, well done! Now, you have a mini full-round project that utilizes many different components of development. As a simple demonstration, I wanted to put up the working example here below, so you can test it in case you were not you were not able to finish the tutorial, but the github pages is not easy to integrate the jQuery AJAX requests. Therefore, if you cannot finish the project, you can the source code and try it from a localhost connection!
 
 Hope you liked the tutorial! For any questions/comments, leave a message to the comments section below and I will try to respond as ASAP.
 
 You can also find the code in my Github repo
 
-[GitHub]()
+[GitHub](https://github.com/koralpc/chatbot)
 
-<html>
-<h3> Ask the bot : </h3>
 
-<form id="chatbot-in">
-  Enter text: <input type="text" id="simpletext"><br>
-   <input type="button" id="btn-sbmt" value="Chat">
-</form>
-
-<div> <strong> Response : </strong>  <div id="changeable"> </div>  </div>  
-
-<script>
-
-$("#btn-sbmt").click(function(){
-var bla = $('#simpletext').val();
-  $.ajax({
-  url: "http://35.180.14.167:5000/predict",
-  type: 'POST',
-  contentType: 'text/plain',
-  //dataType: 'text',
-  data: bla,
-  success: function (response) {
-     //alert(response);
-     $("#changeable").text(response);
-    //console.log(response)
-  },
-  error: function(){
-    alert("Cannot get data");
-  }
-});
-console.log('Ajax called')
-})
-</script>
-</html>
