@@ -30,7 +30,7 @@ However, as one can expect, more levels of medium means even harder tasks, so th
 
 In this task, we will deal with visual question answering. VQA is an emerging concept, where we aim to teach the neural network to learn the encoded information in an input image, and a input text, so that it will be able to predict further questions about the same image. An example instance of the dataset looks like below:
 
-![Example data](../assets/images/Post-assets/vqa-images/vqa-data.jpg)
+![Example data](../assets/images/Post-assets/vqa-images/vqa-data.JPG)
 
 Here, as we see, the input is a pair of image and a related question. For this specific image, the true label is **bed**. So, we want our network to learn that.
 
@@ -550,7 +550,7 @@ if __name__ == '__main__':
 
 When we start the training process, we will see the summary of our network, which is a big network with 9 million! parameters. Therefore, it can take a while for the training to finish.
 
-![Network Summary](../assets/images/Post-assets/vqa-images/model-summary.jpg)
+![Network Summary](../assets/images/Post-assets/vqa-images/model-summary.JPG)
 
 However, when we finish training, we can see the results, that our model has a 20% prediction accuracy, whereas its WUPS score is 0.2352
 
