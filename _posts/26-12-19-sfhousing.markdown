@@ -821,8 +821,8 @@ We're interested in venues of any category, because we aim our clients to utiliz
 
 
 ```python
-CLIENT_ID = '0THMUQDV20HR2OAWILWKBBKGQEXDZNGWADBV3TGLIWF1FYSZ'
-CLIENT_SECRET = 'FCKJVORDZTVL0NYOQKKCCB1YQFC1FHTWVNHGIE2HTD5KI0F5'
+CLIENT_ID = 'Your credentials'
+CLIENT_SECRET = 'Your credentials'
 VERSION = '20180605' # Foursquare API version
 
 print('Credentials:')
@@ -831,8 +831,8 @@ print('CLIENT_SECRET:' + CLIENT_SECRET)
 ```
 
     Credentials:
-    CLIENT_ID: 0THMUQDV20HR2OAWILWKBBKGQEXDZNGWADBV3TGLIWF1FYSZ
-    CLIENT_SECRET:FCKJVORDZTVL0NYOQKKCCB1YQFC1FHTWVNHGIE2HTD5KI0F5
+    CLIENT_ID: 'Your credentials'
+    CLIENT_SECRET:'Your credentials'
 
 
 ### Make request
