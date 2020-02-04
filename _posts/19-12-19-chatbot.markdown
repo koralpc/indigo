@@ -352,7 +352,7 @@ We can test if our Flask application is working properly via a **cURL** request.
 
 and we should see the response of the chatbot there
 
-![curl output](../assets/images/Post-assets/chatbot-images/curl-output.jpg)
+![curl output](../assets/images/Post-assets/chatbot-images/curl-output.JPG)
 
 Here, %20 is to encode whitespace, so the curl command can work properly. If you see the results at this step, then congratulations, you have locally deployed your Keras model to a simple web application. Now, the next step is to put this model into a cloud instance, so it is accessible 7/24 and from outside of your local network.
 
