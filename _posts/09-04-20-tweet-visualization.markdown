@@ -7,7 +7,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "This post carries on an extensive tutorial about creating a multimodal model using LSTM and CNN which will be used in a visual QA task"
 author: Koralp Catalsakal
-externalLink: true
+externalLink: false
 ---
 
 Hello there! 
