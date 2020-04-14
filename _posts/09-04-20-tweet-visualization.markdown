@@ -350,6 +350,7 @@ visual_map
 <iframe src="..\assets\map.html" style="width:100%; height:500px;overflow:auto;"></iframe>
 
 ## Conclusion <a name ="conclusion">
+
 In this project, we managed to build a geographical visualization of tweets related to corona from scratch.
 While doing this, we have only used open-source technologies, or free accounts. Therefore, for mapquest and twitter developer, the amount of request are rather limited, and prevents this application to scale into production level.
 
