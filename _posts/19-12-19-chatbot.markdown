@@ -387,7 +387,7 @@ Here, `key-file-path` will be replaced by your key file, and `public-dns` will b
 
 Since we have the connection with EC2 terminal, now its time to containarize our application, and run it. In order to do that, you would need to install Docker, and the official Tensorflow image for Docker. Once these steps are complete, we can create a container via the command
 
-``
+`docker run -it -p 5000:50000 -v dir_to_python:path_inside_container`
 
 This command is important, because first, we open up the port 5000 of the container to outside world.(Which is the port our Flask app uses!) Second, we will be mounting the directory that our Python files belong to this container. Meaning that the changes made in our local device, once reuploaded via FileZilla, will be directly seen in the container.
 
