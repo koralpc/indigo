@@ -398,7 +398,7 @@ Now, once we have the container, we can execute the bash/terminal via the comman
 
 If you did the steps correctly, the output should look as :
 
-![curl output](../assets/images/Post-assets/chatbot-images/tensorflow-docker.jpg)
+![curl output](../assets/images/Post-assets/chatbot-images/tensorflow-docker.JPG)
 
 Now, you can run your _Python_  file that includes the _Flask_  app from here.
 
